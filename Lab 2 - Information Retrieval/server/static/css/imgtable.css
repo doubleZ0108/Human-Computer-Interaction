@@ -1,0 +1,18 @@
+.max {
+    transition: 0.3s;
+    width: 180px;
+    height: 180px;
+}
+
+.min {
+    transition: 0.3s;
+    width: 80px;
+    height: 80px;
+}
+
+.table-td {
+    transition: 0.3s;
+    width: 80px;
+    height: 80px;
+    position: relative;
+}

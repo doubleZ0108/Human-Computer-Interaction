@@ -1,0 +1,19 @@
+.imgtag {
+    background-color: rgba(7, 214, 221, 0.7);
+    position: absolute;
+    top: 75%;
+    left: 59%;
+    width: 34px;
+    height: 15px;
+    text-align: center;
+    line-height: 15px;
+    font-size: 5px;
+}
+
+.tagbtn {
+    margin-left: 10%;
+    z-index: 9999;
+    position: fixed !important;
+    right: 12%;
+    top: 40%;
+}
