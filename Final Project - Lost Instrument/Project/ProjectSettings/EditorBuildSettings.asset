@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainPage.unity
+    guid: aac82df847dbf48a7bd63978b19b4099
+  - enabled: 1
+    path: Assets/Scenes/choose/chooseScene.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/erhu/erhuScene.unity
+    guid: 37bfd768b5719a64e806849529ab2e54
+  - enabled: 1
+    path: Assets/Scenes/guzheng/guzhengScene.unity
+    guid: d6f1f213754b61240a1aabc2887486f0
+  - enabled: 1
+    path: Assets/Scenes/pipa/pipaScene.unity
+    guid: ec89dc4fb696e1f4880148ab6cd051f5
+  - enabled: 1
+    path: Assets/Scenes/erhu/erhu_qingongScene.unity
+    guid: 4bfed8ba54ef17644967b98f736dbfe4
+  - enabled: 1
+    path: Assets/Scenes/erhu/erhu_qinganScene.unity
+    guid: 2711c1d3d62f9864d98b6a020373d345
+  - enabled: 1
+    path: Assets/Scenes/erhu/erhu_qinxianScene.unity
+    guid: b764b5f45d0eb284587d0fab98cc5231
+  - enabled: 1
+    path: Assets/Scenes/erhu/erhu_qintongScene.unity
+    guid: 95c577fed14a5aa4b8609d9ccb0bfaad
+  - enabled: 1
+    path: Assets/Scenes/pipa/mianbanScene.unity
+    guid: 487aa02d3e9ebf9419f6071f36ef44d1
+  - enabled: 1
+    path: Assets/Scenes/pipa/shankouScene.unity
+    guid: 646fe2cdf529c734388d964cd95f99a8
+  - enabled: 1
+    path: Assets/Scenes/pipa/zhongxianScene.unity
+    guid: d1452dc29f6f0d841970355ae263aab2
+  m_configObjects: {}
