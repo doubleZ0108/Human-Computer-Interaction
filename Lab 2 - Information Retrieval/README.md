@@ -2,32 +2,38 @@
 
 Make use of deep learning to do state-of-the-art image similarity search.
 
-## Catalogue
 
-- [Background](#Background)
-- [Function](#Function)
-- [Development Environment](#Development Environment)
-- [Project Structure](#Project Structure)
-- [How to Run](#How to Run)
-- [ScreenShot](#ScreenShot)
-  - [Homepage](#Homepage)
-  - [Before search](#Before search)
-  - [Show the source file](#Show the source file)
-  - [Display the 8 similar image](#Display the 8 similar image)
-  - [Drag the image to the favorites](#Drag the image to the favorites)
-  - [Display the favorite images only](#Display the favorite images only)
-  - [See images hold the selected tag only](#See images hold the selected tag only)
-  - [Enlarge & Shrink](#Enlarge & Shrink)
-- [Function Realization](#Function Realization)
-  - [The slide of the homepage](#The slide of the homepage)
-  - [Show the source file](#Show the source file)
-  - [Overview of the results ](#Overview of the results )
-  - [Tags & Classify](#Tags & Classify)
-  - [Favorites](#Favorites)
-  - [Enlarge & shrink of the images](#Enlarge & shrink of the images)
-- [About the author](#About the author)
+Table of Contents
+=================
 
-<a name="Background"></a>  
+   * [Lab 2: Image similarity search using deep learning](#lab-2-image-similarity-search-using-deep-learning)
+      * [Background](#background)
+      * [Function](#function)
+      * [Development Environment](#development-environment)
+      * [Project Structure](#project-structure)
+      * [How to Run](#how-to-run)
+      * [ScreenShot](#screenshot)
+         * [Homepage](#homepage)
+         * [Before search](#before-search)
+         * [Show the source file](#show-the-source-file)
+         * [Display the 8 similar image](#display-the-8-similar-image)
+         * [Drag the image to the favorites](#drag-the-image-to-the-favorites)
+         * [Display the favorite images only](#display-the-favorite-images-only)
+         * [See images hold the selected tag only](#see-images-hold-the-selected-tag-only)
+         * [Enlarge &amp; Shrink](#enlarge--shrink)
+      * [Function Realization](#function-realization)
+         * [The slide of the homepage](#the-slide-of-the-homepage)
+         * [Show the source file](#show-the-source-file-1)
+         * [Overview of the results](#overview-of-the-results)
+         * [Tags &amp; Classify](#tags--classify)
+            * [Obtain tags](#obtain-tags)
+            * [Transfer](#transfer)
+            * [Usage of tags](#usage-of-tags)
+         * [Favorites](#favorites)
+            * [Found favorites](#found-favorites)
+            * [Drag the images to the favorites](#drag-the-images-to-the-favorites)
+         * [Enlarge &amp; shrink of the images](#enlarge--shrink-of-the-images)
+      * [About the author](#about-the-author) 
 
 ## Background
 
