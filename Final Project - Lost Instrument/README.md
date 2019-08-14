@@ -2,7 +2,24 @@
 
 Our final project is a 3D model exhibition application where users can interact with models of several instruments and their parts to see the beauty of ancient instruments closely. Here's how to use it.
 
-[TOC]
+
+Table of Contents
+=================
+
+   * [Lost Instrument](#lost-instrument)
+      * [Guide](#guide)
+         * [Instrument Choose Page](#instrument-choose-page)
+         * [Interaction Page](#interaction-page)
+      * [Video for preview](#video-for-preview)
+         * [Start &amp; Choose](#start--choose)
+         * [Instrument Zither](#instrument-zither)
+         * [Instrument Lute](#instrument-lute)
+         * [Instrument Erhu](#instrument-erhu)
+         * [Decomposition of Lute](#decomposition-of-lute)
+         * [Decomposition of Erhu](#decomposition-of-erhu)
+         * [Rotation for Erhu](#rotation-for-erhu)
+      * [ps. How to import our package to run our project in Unity?](#ps-how-to-import-our-package-to-run-our-project-in-unity)
+      * [About the author](#about-the-author)
 
 ## Guide
 
