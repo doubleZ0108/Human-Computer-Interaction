@@ -2,7 +2,40 @@
 
 Make use of dash to visualize one of the three dataset.
 
-[TOC]
+Table of Contents
+=================
+
+   * [Lab 3: Data Visualization](#lab-3-data-visualization)
+      * [Background](#background)
+            * [<strong>What is Data Visualization?</strong>](#what-is-data-visualization)
+            * [<strong>Tasks in Data Visualization</strong>](#tasks-in-data-visualization)
+      * [Function](#function)
+      * [Development Environment](#development-environment)
+      * [Project Structure](#project-structure)
+      * [How to Run](#how-to-run)
+      * [ScreenShot](#screenshot)
+            * [Interface(Size &amp; Content rating)](#interfacesize--content-rating)
+            * [Interface(Price &amp; Rating)](#interfaceprice--rating)
+            * [Switch from different Rating](#switch-from-different-rating)
+            * [Switch from Free or Paid](#switch-from-free-or-paid)
+            * [Switch from different item in the category](#switch-from-different-item-in-the-category)
+            * [Rating](#rating)
+      * [Function Realization](#function-realization)
+         * [Dash Core Components](#dash-core-components)
+            * [dcc.Dropdown](#dccdropdown)
+            * [dcc.RadioItems](#dccradioitems)
+            * [dcc.Tab](#dcctab)
+            * [dcc.Graph](#dccgraph)
+         * [Dash DAQ Components](#dash-daq-components)
+            * [daq.Knob](#daqknob)
+         * [Callbacks](#callbacks)
+         * [Settle .CSV File](#settle-csv-file)
+            * [Read file](#read-file)
+            * [Filter](#filter)
+            * [Get Data](#get-data)
+      * [About the author](#about-the-author)
+      
+      
 
 ## Background
 
