@@ -92,6 +92,7 @@ It mainly includes three aspects:
 
 ## Project Structure
 
+```
 │  README.md   
 │  report.md   
 │  report.pdf   
@@ -121,7 +122,8 @@ It mainly includes three aspects:
     │  │      
     │  └─result   
     └─templates   
-            mymain.html    
+            mymain.html   
+```
 
 <a name="How to Run"></a>  
 
