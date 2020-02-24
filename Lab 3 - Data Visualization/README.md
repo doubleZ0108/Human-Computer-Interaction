@@ -99,6 +99,7 @@ Table of Contents
   
 
 ## Project Structure
+```
 
 │  README.md
 │  report.md
@@ -112,6 +113,7 @@ Table of Contents
 └─src
         app.py
         Reader.py
+```
 
 
 
