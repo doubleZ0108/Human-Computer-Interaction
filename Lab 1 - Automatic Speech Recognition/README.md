@@ -67,6 +67,7 @@
 
 #### 项目结构
 
+```
 │  mySiri.py   
 │  mySiriInterface.py   
 │  README.md   
@@ -94,7 +95,8 @@
 &emsp;&emsp;&emsp;&emsp;play-music.png   
 &emsp;&emsp;&emsp;&emsp;start.png   
 &emsp;&emsp;&emsp;&emsp;talk-to-double-Z.png   
-&emsp;&emsp;&emsp;&emsp;wake.png   
+&emsp;&emsp;&emsp;&emsp;wake.png 
+```
 
 <a name="具体功能实现"></a>  
 
