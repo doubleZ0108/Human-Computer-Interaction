@@ -1,12 +1,8 @@
 # Human Computer Interaction Course Project
 
-Table of Contents
-=================
-
-   * [Human Computer Interaction Course Project](#human-computer-interaction-course-project)
-     * [Description](#description)
-     * [Project Structure](#project-structure)
-     * [About the Author](#about-the-author)
+* [Description](#description)
+* [Project Structure](#project-structure)
+* [About the Author](#about-the-author)
 
 ------
 
